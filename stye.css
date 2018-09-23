@@ -1,0 +1,11 @@
+.image-holder {
+    text-align: center;
+}
+
+.left{float:left;width:100px;}
+.right{float:right;width:100px;}
+.middle{margin:0 auto;width:100px;}
+
+body {
+    background-image: url(assets/regal.png)
+}
